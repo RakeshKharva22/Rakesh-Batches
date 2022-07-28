@@ -1,0 +1,17 @@
+Datatypes: 4 Types
+
+Integer->   int -> Numeric Values  4 bytes   %d
+Decimal->  float->	12.32      4 bytes   %f	
+Character-> char->		   1 byte    %c
+Double->    double->		   8 byte    %lf
+String ->   char[10] 		   10 byte   %s
+
+string is collection of characters.
+
+variable : int a = 10;  int-> datatype, a ->variable-name, 10 ->value
+
+Variable is a name at memory location to store values of different types.
+
+Rules:- 
+1st character should not be digit.
+No special character allowed, except_ &

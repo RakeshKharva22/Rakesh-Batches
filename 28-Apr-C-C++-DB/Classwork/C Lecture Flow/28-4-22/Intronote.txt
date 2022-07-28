@@ -1,0 +1,63 @@
+Computer :
+
+C -Common
+O - Oriented
+M - Machine 
+P - Particularly 
+U - Used for
+T - Tecnical &
+E- Education 
+R - Research
+
+Abacus
+
+Father of Computer -> Charles Babbage
+
+
+Program : A set of Instructions is called program.
+
+
+Software :  collection of programs.
+
+2 Types:  1) System Softaware
+	  2) Application Software
+
+
+
+
+1) Assembly language / Machine Language
+
+Programming Language :
+
+1) FORTAN,COBOL,B
+2) C Lanaguage
+3) C ++
+4)Python, Ruby,Java,PHP
+5).Net 
+
+
+C Programming Language
+
+It was developed by Dennis Ritchie at AT &T Lab in 1972.
+
+C is Procedure Oriented Programming Language. (POP)
+
+
+Software Development Lifecycle Process	 :-
+
+There are 6
+ Process in developing a software.
+
+1) Requirements
+2) Analysis
+3) Designing 
+4) Development
+5) Testing 
+6) Maintenance
+
+
+
+
+
+
+

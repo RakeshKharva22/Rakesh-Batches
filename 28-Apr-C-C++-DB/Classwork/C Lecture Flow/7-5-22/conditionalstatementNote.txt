@@ -1,0 +1,63 @@
+
+CONDITIONAL  Statement :  Evaluates true /false. it is used to make decision.
+
+
+1) Simple if :  if(condition)
+		{
+		   statement;
+		}
+
+2) if/else   :  if(condition)
+		{
+		   statement;
+		}
+		else
+		{
+		   statement;
+		}
+
+3) Nested if/else : if(condition)
+		    {
+			if(condition)
+			{
+			   statement;
+			}
+			else
+			{
+			   statement;
+			}
+		    }
+		    else
+		    {
+			if(condition)
+			{
+			   statement;
+			}
+			else
+			{
+			   statement;
+			}
+		    }
+
+4) Ladder if/else :   if(condition)
+		      {
+			 statement;
+		      }
+		      else if(condition)
+		      {
+			  statement;
+		      }
+		      else if(condition)
+		      {
+			  statement;
+		      }
+		      else if(condition)
+		      {
+			  statement;
+		      }
+		      else
+		      {
+			  statement;
+		      }	 
+
+			

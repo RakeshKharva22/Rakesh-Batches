@@ -1,0 +1,20 @@
+
+Algorithm :- We write down steps for a particular process.
+
+e.g Making a Tea
+
+Step 1 :  Start
+Step 2 : Input (Milk,water,sugar,etc)
+Step 3 : Processing ( Boiling)
+Step 4 : Decide( If Tea Good goto step 5, if not goto step1
+Step 5 : Output (Serve)
+Step 6 : Stop.
+ 
+2nd Process Addition of 2 No.s
+
+Step 1: Start
+Step 2: Input (a=10 , b=20)
+Step 3 : Process (c = a + b)
+Step 4 : If No.+ve goto step 5,if -ve goto step 2;
+Step 5 : Output (c)
+Step 6 : Stop
