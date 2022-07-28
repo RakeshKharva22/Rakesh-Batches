@@ -1,0 +1,14 @@
+C+Class
+
+1) Class : collection data members, Member Functions,etc.
+
+2) Object : It is an real world entity.
+
+
+
+it provides 3 access specifiers
+
+1) public - access inside/ outside the class.
+2) private - access only within the class.
+3) protected - access inside and to subclasses.
+
