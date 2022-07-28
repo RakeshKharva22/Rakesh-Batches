@@ -1,0 +1,47 @@
+int a = 10;
+
+Array : Array is used to hold collection of similar kind of element.
+
+Now where Arrays could be used.
+i. List of Employees in the Organisation.
+ii. List of Students in School/College.
+iii.List of Products in Shop.
+iv.List of Telephone Numbers.
+
+So wherever there is List of Similar kind of data it can be stored using Array.
+
+Syntax :
+
+ <dataype> <Array-Name>[];  [ ] -> Size of Array or Dimension of array.
+
+e.g int marks[5];
+    char name[10];
+    float percentage[5];
+
+Initialization of Array:
+
+1)  int marks[5] = {12, 32, 36, 67,32};
+
+// Partial Initialization
+
+2) int marks[5] = {33, 23, 43}; 
+
+// Auto initialization of array
+3) int marks[] = {10, 20 30, 23}; 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

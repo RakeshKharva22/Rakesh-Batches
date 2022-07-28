@@ -1,0 +1,12 @@
+Array Addressing
+
+int marks[5];
+
+Name of the Array is the Base Address of Array
+
+marks -> Base Address
+
+printf("%u",marks) // it will print starting address.
+printf("%u",marks+1 ) // it will print Next element address.
+printf("%u",marks+2) // it will print Next element address.
+
