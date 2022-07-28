@@ -1,0 +1,69 @@
+
+Conditional Statments:
+
+1) Simple If: 
+		syntax:
+			if(condition)
+			{
+				statement;
+			}
+
+2) if/else  :
+		syntax:
+			if(condition)
+			{
+				
+			}
+			else
+			{
+				statement;
+			}
+
+3) Nested if/else :
+		  
+		syntax : 
+		         if(condition)
+			{
+				if(condition)
+				{
+					statement;
+				}
+				else
+				{
+					statement;
+				}
+			}
+			else
+			{
+				if(condition)
+				{
+					statement;
+				}
+				else
+				{
+					statement;
+				}		
+			}
+
+4) Ladder if/else : 
+		   syntax:
+
+			if(condition)
+			{
+				statement;			
+			}
+			else if(condition)
+			{
+				statement;
+			}
+			else if(condition)
+			{
+				statement;
+			}
+			else if(condition)
+			{
+				statement;
+			}
+			
+			
+	

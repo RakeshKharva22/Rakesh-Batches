@@ -1,0 +1,43 @@
+
+
+Datatype : C contains 4 datatypes:
+	1) int    4 byte    45,78, 
+	2)float   4 byte    45.25, 47.78,
+	3)char 	  1 byte    f,a,f,r,e
+	4)double  8 byte    43453.5345345534,4232434.562352		5)char name[10]= "ksjdfdfsddd";  ->String 
+	
+	e.g  char a = 'f';
+	     float int;	
+	
+		int ->datatype
+		a -> variable
+		10 -> value;	 
+ 
+
+Variable : It is a name at memory location to store value
+	   of different types.
+
+	Rules for variable:
+
+	1) No keyword should be used as variable name.
+		e.g Correct : int a;
+		   Incorrect : float int;
+
+	2) First Character should no be digit.
+		e.g Correct : int a;
+		    Wrong : int 1a;
+	
+	3) No Special symbol allowed.except _$
+	     e.g Correct :int a_1,_a1,_1a,
+		 Incorrect : int #a;a#,
+	
+	4) No space is allowed.
+	 e.g Correct: int ab;
+	     wrong ‌: int a,b,c,d;Escape
+
+Escape Sequences : 1)\n -> New Line
+		   2)\t -> Space
+	
+			
+	
+

@@ -1,0 +1,22 @@
+
+	Operators : 
+
+	1) Arithemetic Operator: 
+	  +,-,/,*
+	
+	2) Assignment Operator      a -= b; a = a-b;
+	   +=,-=,*=,/=,<=,>= 
+ 
+	3) Relational Operator
+	   >,<,==
+
+	4) Logical Operator
+	   &&,||,!
+
+	5)  Unary Operator
+	 	i) Increment Operator: ++
+		ii) Decrement Operator : --
+
+	6) Ternary Operator
+	
+		?:

@@ -1,0 +1,12 @@
+SDLC - 
+
+Software Development LifeCycle.
+
+5 Phases are required in developing a software.
+
+1) Requirement.
+2) Analysis.
+3)Software Designing.
+4)Development.
+5)Testing.
+6)Maintenance.

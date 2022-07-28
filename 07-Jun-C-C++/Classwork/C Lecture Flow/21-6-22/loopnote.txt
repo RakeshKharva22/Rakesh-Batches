@@ -1,0 +1,55 @@
+
+Loops in C Programming: 
+
+Loops : Repeating the same task again and again
+	is called as Loop.
+
+3 important facts in Loop.
+
+1) intialization
+2) condition
+3) updation
+
+1) while loop
+			
+syntax : 	
+		initialization;	  // i = 1;	
+
+		while(condition)  // i <= 100
+		{
+			statement;
+			updation; 
+		}
+
+-> It is called Entry Controlled Loop.
+  If condition is true , so go inside the body.
+  If condition is false , so go outside the body. 
+  No Semicolon.
+
+2) do..while()
+
+syntax : 	
+		intialization
+		
+		do
+		{
+		   statement;
+		   updation;
+		}
+		while(condition);
+
+It is Exit Controlled Loop.
+It will execute body atleast once, even if the condition is false.
+Semicolon after while.
+
+3) for  loop
+
+intialization,condition,updation all in one line
+
+syntax : 
+		for( initialization;condition;updation)
+		{
+			statement;	
+		}
+		
+

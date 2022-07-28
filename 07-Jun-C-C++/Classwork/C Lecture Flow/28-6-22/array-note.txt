@@ -1,0 +1,11 @@
+Array :
+
+	Array stores multiple Elements of same type in contigous memory.
+
+syntax : 
+		<data-type> <array-name>[size];
+
+		int marks[5];
+
+		array-name is the base-address of an Array.
+

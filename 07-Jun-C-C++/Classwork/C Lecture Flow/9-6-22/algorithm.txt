@@ -1,0 +1,7 @@
+Algorithm
+
+Step 1) Start
+Step 2) Input (water,milk,tea,sugar,elaichi,ginger,etc.)
+Step 3) Process ( boiling)
+Step 4) If Tea is good then goto next step. else goto start.
+Step 5)Output (serve)

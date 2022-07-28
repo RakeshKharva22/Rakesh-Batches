@@ -1,0 +1,22 @@
+
+	Unary Operator:
+	1) Increment : ++ , +1
+	2) Decrement : -- , -1
+
+	Increment : 2 types : 1) Pre-Increment
+
+			++a;
+			
+			      2) Post Increment
+			a++;
+		
+
+	Decrement : 2 Types   1) Pre-Decrement
+
+			--a;
+
+			      2) Post-Decrement
+
+			a--;
+
+	
