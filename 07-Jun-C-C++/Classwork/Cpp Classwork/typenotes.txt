@@ -1,0 +1,8 @@
+Type of Inheritance
+
+1) Single-level Inheritance
+2) Multi-level Inheritance
+3) Multiple Inheritance
+4) Hierarachical Inheritance
+5) Hybrid Inheritance.
+ 
